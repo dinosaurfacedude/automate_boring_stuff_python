@@ -1,7 +1,6 @@
 #author: Daniel Jones
-
-import re
-
+#last edited Aug 20 12:54 PM
+#Text editor: Nano
 
 #rem short for remove
 def stripmeth(word, rem):
